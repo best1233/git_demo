@@ -18,3 +18,5 @@ Object.defineProperty(info, 'name', {
 console.log(info.name);
 
 info.name = 'xxx';
+
+console.log(info.name);
